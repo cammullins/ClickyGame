@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url("https://banner2.kisspng.com/20180402/jee/kisspng-washington-d-c-diana-prince-flash-dc-comics-logo-dc-comics-5ac2a59fc25162.2481126615227058237959.jpg");
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}

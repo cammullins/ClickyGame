@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "image": "./images/BatG_BOP1.jpg"
+  },
+
+  {
+    "id": 2,
+    "clicked": false,
+    "image": "./images/BatG_Phone.jpg"
+  },
+
+  {
+    "id": 3,
+    "clicked": false,
+    "image": "./images/BatM_CatWHug.jpeg"
+  },
+
+  {
+    "id": 4,
+    "clicked": false,
+    "image": "./images/BatM_CatWHug.jpeg"
+  },
+
+  {
+    "id": 5,
+    "clicked": false,
+    "image": "./images/BatM_CatWKiss.jpg"
+  },
+
+  {
+    "id": 6,
+    "clicked": false,
+    "image": "./images/BatM_Rorch.jpg"
+  },
+
+  {
+    "id": 7,
+    "clicked": false,
+    "image": "./images/BatMCape.jpg"
+  },
+
+  {
+    "id": 8,
+    "clicked": false,
+    "image": "./images/ClayF_BatMW_StarF_NightW.jpg"
+  },
+
+  {
+    "id": 9,
+    "clicked": false,
+    "image": "./images/ClayF_BatMW_StarF_NightW.jpg"
+  },
+
+  {
+    "id": 10,
+    "clicked": false,
+    "image": "images/GreenA.jpg"
+  },
+
+  {
+    "id": 11,
+    "clicked": false,
+    "image": "images/Raven.jpg"
+  },
+
+  {
+    "id": 12,
+    "clicked": false,
+    "image": "./images/Rebirth1.jpg"
+  }
+]
